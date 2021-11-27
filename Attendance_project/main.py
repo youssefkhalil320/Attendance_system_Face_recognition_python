@@ -1,3 +1,9 @@
+"""
+Author: @youssefkhalil320
+date: 27/11/2021
+gmail: youssefkhalil320@gmail.com
+GitHub: https://github.com/youssefkhalil320
+"""
 import cv2
 import numpy as np 
 import face_recognition
